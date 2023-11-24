@@ -1,2 +1,5 @@
 THE data set has been taken from the kaggle
 https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression/data
+This is my first ML model and i have doen this using the basics of numpy only
+i have executed every important aspect of the model either by using numpy or by basic python programming
+In future, i will try to incorporate other libraries and hyperparameter tuning to create a better model
